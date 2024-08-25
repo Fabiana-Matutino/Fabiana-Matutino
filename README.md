@@ -3,7 +3,7 @@ Transformo dados em decisões estratégicas, revelando insights que impulsionam 
 
 
 [![lE-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://https://l1nk.dev/emailfabiana)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://sites.google.com/view/portflio-fabiana-matutino)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianamatutino)
 [![PORTFÓLIO](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/portflio)
 
 ![Fabiana-Matutino GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiana-matutino&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiana-matutino&hide_progress=true)
