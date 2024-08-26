@@ -2,7 +2,7 @@
 Transformo dados em decisões estratégicas, revelando insights que impulsionam o sucesso do negócio
 
 
-[![lE-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://l1nk.dev/emailfabiana)
+[![lE-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianamatutino@gmail.com? assunto=Quero%20me%20conectar&corpo=Ol%C3%A1%20Fabiana%2CGostaria%20de%20iniciar%20uma%20conversa)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianamatutino)
 [![PORTFÓLIO](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bit.ly/3XkHW7P)
 
